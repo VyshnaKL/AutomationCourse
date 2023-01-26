@@ -13,7 +13,7 @@ public class SeleniumTest {
 		//WebDriver driver = new ChromeDriver();
     	
         String baseUrl = "http://demo.guru99.com/test/newtours/";
-        String expectedTitle = "Welcome: Mercury Tours";
+        String expectedTitle = "Welcome: Aanachandi!!!";
         String actualTitle = "";
 
         // launch Fire fox and direct it to the Base URL
